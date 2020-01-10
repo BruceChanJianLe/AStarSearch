@@ -1,6 +1,7 @@
 # <span style="color:navajowhite">A* Search Algorithm</span>
 
-This is a search algorithm that is being used in maps. This executable shows how the A* search perform in different scenario.
+This is a search algorithm that is being used in maps. This executable shows how the A* search perform in different scenario.  
+Checkout the redo branch for latest update.  
 
 ## <span style="color:mediumspringgreen">Build from source</span>
 
